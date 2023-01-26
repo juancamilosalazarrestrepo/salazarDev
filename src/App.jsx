@@ -28,6 +28,7 @@ function App() {
           }} value={nombre}/>
       <h1>{count}</h1>
       <h2>{nombre}</h2>
+      
 
     </div>
   )
